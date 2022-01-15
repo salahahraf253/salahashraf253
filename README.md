@@ -6,6 +6,5 @@ I'm studying software engineering at grade three in faculty of computer science 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salahashraf253&theme=radical&langs_count=7&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=salahashraf253&color=brightgreen)
 
 
