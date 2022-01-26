@@ -11,3 +11,5 @@ I'm studying software engineering at grade three in faculty of computer science 
 <h3>🏆 Github Trophies: </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=salahashraf253&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=salahashraf253&color=brightgreen)
