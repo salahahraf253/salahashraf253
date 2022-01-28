@@ -1,6 +1,6 @@
 ### Hi there, I'm Salah Ashraf 👋
 <!-- <p>I'm software engineering student at level three .</p> -->
-I'm studying software engineering at grade three in faculty of computer science at Ain Sham university .I'm very passionate to learn new things every day
+I'm studying software engineering in faculty of computer science at Ain Sham university .I'm very passionate to learn new things every day
 
 <h3>📈 Stats: </h3>
 
