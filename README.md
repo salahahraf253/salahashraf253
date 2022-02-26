@@ -10,7 +10,7 @@ I'm studying software engineering in faculty of computer science at Ain Sham uni
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salahashraf253&theme=radical&langs_count=4&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>🏆 Github Trophies: </h3>
+<h3>🏆 Github Trophies: </h3> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=salahashraf253&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
