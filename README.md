@@ -5,7 +5,7 @@ Junior computer science  student at Ain Shams unversity.
 ![](https://komarev.com/ghpvc/?username=salahashraf253&color=brightgreen)
 <h3>📈 Stats: </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salahashraf253&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salahashraf253&theme=radical&show_icons=true)
 
 <h3>Programming Languages: </h3>
 
