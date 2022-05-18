@@ -1,7 +1,7 @@
 ### Hi there, I'm Salah Ashraf 👋
 <!-- <p>I'm software engineering student at level three .</p> -->
-I'm studying software engineering in faculty of computer science at Ain Sham university .I'm very passionate to learn new things every day
-
+Junior computer science  student at Ain Shams unversity.
+![](https://komarev.com/ghpvc/?username=salahashraf253&color=brightgreen)
 <h3>📈 Stats: </h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salahashraf253&theme=radical&show_icons=true)
@@ -14,4 +14,4 @@ I'm studying software engineering in faculty of computer science at Ain Sham uni
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=salahashraf253&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=salahashraf253&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=salahashraf253&color=brightgreen) -->
