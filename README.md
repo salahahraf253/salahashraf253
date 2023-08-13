@@ -21,7 +21,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Backend (Spring/NodeJs)
-- 🎓 &nbsp; I’m Senior software engineering student at Ain Shams unversity at Egypt
+- 🎓 &nbsp; I’m Fresh Computer Science graduete from Ain Shams unversity at Egypt
 - 💼 &nbsp; Backend developer and Moblie developer.
 - ✍️ &nbsp; I enjoy reading good books or having a nice evening out with friends.
 - ☕ &nbsp; I like work that benefits other people as well as myself and isn't too systematic and believe that if you have a dream, wake up to do it.
